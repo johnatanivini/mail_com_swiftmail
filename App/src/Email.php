@@ -11,7 +11,7 @@ namespace App;
  * @package App
  */
 
-class EMail
+class Email
 {
 
     protected $host;
